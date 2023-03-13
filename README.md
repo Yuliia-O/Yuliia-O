@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuliia-O
 - 👀 I’m interested in coding, books, and painting
-- 🌱 I’m currently learning html/css
+- 🌱 I’m currently learning JS/html/css
 - 💞️ I’m looking to collaborate on any interesting project a noob like me can handle
 - 📫 How to reach me: @yuliia_julia (telegram)
 
